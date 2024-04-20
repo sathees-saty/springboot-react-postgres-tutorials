@@ -4,7 +4,7 @@
 Architecture of Spring Boot React CRUD example
   </h1>
   <br>
-  <img src="https://github.com/sathees-saty/springboot-react-postgres-tutorials/assets/65384711/4bc7cd4a-6642-478b-b2e6-ea65e5d98d50" alt="Tutorials" width="1000" height="1000">
+  <img src="https://github.com/sathees-saty/springboot-react-postgres-tutorials/assets/65384711/0da60ebb-6eec-4beb-a3a3-21a1bec9776d" alt="Architecture" width="1000" height="1000">
   <br>
   Download github code
   <br>
